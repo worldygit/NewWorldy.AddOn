@@ -1,0 +1,6 @@
+## Title: NewWorldy
+## Notes: Rotation helper framework.
+## Version: 0.0.1
+## Author: Worldy
+## Interface: 100205
+## SavedVariables: NewWorldyOptions
