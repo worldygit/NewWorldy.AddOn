@@ -1,7 +1,0 @@
-## Title: NewWorldyRogue
-## Version: 0.0.1
-## Author: Worldy
-## Interface: 100205
-## Dependencies: NewWorldy
-## LoadOnDemand: 1
-## SavedVariables: NewWorldyRogueOptions
